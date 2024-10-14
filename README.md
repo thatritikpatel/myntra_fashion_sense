@@ -19,17 +19,17 @@ The project consists of two main components:
 
 ### ScrapeReviews Code Flow
 
-![ScrapeReviews Code Flow](scrape code flow.png)
+![ScrapeReviews Code Flow](https://github.com/thatritikpatel/myntra_fashion_sense/blob/main/scrape%20code%20flow.png)
 
 ### Dashboard Generation Process
 
-![Dashboard Generation Process](\scrape code flow.png)
+![Dashboard Generation Process](https://github.com/thatritikpatel/myntra_fashion_sense/blob/main/generate%20data%20report.png)
 
 ## Installation
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/myntra_fashion_sense.git
+   git clone https://github.com/thatritikpatel/myntra_fashion_sense.git
    cd myntra_fashion_sense
    ```
 
@@ -76,3 +76,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## Author
+- [Ritik Patel](ritik.patel129@gmail.com)
