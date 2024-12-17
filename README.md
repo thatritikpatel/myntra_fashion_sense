@@ -2,6 +2,12 @@
 
 Myntra Fashion Sense is a web scraping and analysis project that extracts product reviews from Myntra, stores them in MongoDB, and provides insights through a Streamlit-based user interface.
 
+## Video Demo
+
+Here's a video demo of the project:
+
+https://github.com/user-attachments/assets/e4c7b815-1e64-4cb7-a8df-0a9858947bb0
+
 ## Features
 
 - Scrape product reviews from Myntra
