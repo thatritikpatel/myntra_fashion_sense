@@ -85,4 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ## Author
-- [Ritik Patel](mailto:ritik.patel129@gmail.com)
+- Ritik Patel - [https://www.linkedin.com/in/thatritikpatel/]
